@@ -1,6 +1,6 @@
 # Machine learning and reduced order modelling for the simulation of braided stent deployment.
 
-Database of FE stent simulations and Matlab codes to build reduced order models for the prediction of the deployed configuration.
+Database of FE simulations and Matlab codes to build reduced order models for the prediction of braided stent deployed configurations.
 
 ----------------------------
 
